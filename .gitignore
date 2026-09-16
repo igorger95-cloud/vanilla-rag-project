@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+.env
+.env.*
+
+*.log
+
+index/
+results/
+
+.DS_Store
